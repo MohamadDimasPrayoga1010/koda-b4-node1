@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "node --watch index.js",
-    "lintFix" : "npx eslint *.js ./*.js ./**/*.js --fix",
+    "lint:fix" : "npx eslint *.js ./*.js ./**/*.js --fix",
     "lint" : "npx eslint *.js ./*.js ./**/*.js "
   },
   "keywords": [],
